@@ -1037,4 +1037,16 @@ width:100%;
     #counter strong{
         font-size:11px;
     }
+    .socialHeaderSec .footerIcons{
+float:left;
+    }
+    .lognSec{
+        float: right;
+        margin-top:0;
+    }
+    #mainMenu .navbar-nav li.active a, #mainMenu  .navbar-nav li:hover a {
+        background: transparent;
+        padding-top: 37px;
+        border-top: 0;
+    }
 }
