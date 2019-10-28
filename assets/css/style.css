@@ -987,7 +987,11 @@ font-size: 16px;}
 .img-thumbnail{
     width:20% !important
 }
-
+#Slider{
+    background-image: url("../images/twitter-bg.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
 
 @media (max-width:767px){
     .counterNum{
